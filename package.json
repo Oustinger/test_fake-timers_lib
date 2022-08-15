@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "dependencies": {
+    "@sinonjs/fake-timers": "^9.1.2",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "run": "node ./src/script.js"
+  }
+}
